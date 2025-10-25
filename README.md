@@ -1,11 +1,7 @@
-# Polling App - Frontend
+# Live Poll - Frontend
 
 ## Overview
 This project is a real-time polling system that allows teachers to create live polls and students to participate in them. The frontend is built with **React** (using Vite as the build tool). **Socket.IO** is used for real-time communication between the server and clients.
-
-# 🎯 Intervue Live Poll – Frontend
-
-An interactive live polling web application built using **React + Vite** that enables teachers to create and conduct live polls while students can respond in real-time. Designed for seamless engagement in classrooms and interviews.
 
 ## 🚀 Features
 
@@ -62,7 +58,7 @@ src/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/rajeevsingh3108/Live-Poll-Frontend.git
+git clone https://github.com/<your-username>/intervue-live-poll-frontend.git
 cd intervue-live-poll-frontend
 ```
 
