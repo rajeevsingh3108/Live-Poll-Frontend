@@ -58,8 +58,8 @@ src/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/intervue-live-poll-frontend.git
-cd intervue-live-poll-frontend
+git clone https://github.com/rajeevsingh3108/Live-Poll-Frontend.git
+cd live-poll-frontend
 ```
 
 ### 2️⃣ Install dependencies
